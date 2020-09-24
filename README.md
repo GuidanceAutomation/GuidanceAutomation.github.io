@@ -6,6 +6,8 @@
   </a>
 </div>
 
+This is the landing page for support on integrating the Mat Model 70 into your automated logistics solution.
+
 ## Client Wrappers
 
 The client wrapper family consist of:
