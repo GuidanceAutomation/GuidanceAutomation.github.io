@@ -1,5 +1,11 @@
 # Welcome to the MAT Model 70 SDKs HomePage
 
+<div style="text-align: right">
+  <a href="https://www.matw.com/business-segments/industrial-technologies">  
+    <img src="https://guidanceautomation.github.io/images/logo_teaser_logo.png" alt="AGV image" width="200"/>
+  </a>
+</div>
+
 ## Client Wrappers
 
 The client wrapper family consist of:
