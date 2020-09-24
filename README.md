@@ -11,3 +11,10 @@ The client wrapper family consist of:
 ### Support or Contact
 
 [Matthews Industrial Automation](https://www.matw.com/business-segments/industrial-technologies)
+
+<div style="text-align: right">
+  <img src="images/incaartBW.png" alt="AGV image" width="200"/>
+  <br>
+  Beep! Beep! I'm the scheduling support AGV!<br>
+  <a href="https://github.com/GuidanceAutomation">Here is my Github</a>
+</div>
