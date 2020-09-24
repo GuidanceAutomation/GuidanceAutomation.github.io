@@ -1,6 +1,6 @@
 # Welcome to the MAT Model 70 SDKs HomePage
 
-## Client Wrappers:
+## Client Wrappers
 
 The client wrapper family consist of:
 
